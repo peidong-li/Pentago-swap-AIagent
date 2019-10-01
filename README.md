@@ -1,2 +1,1 @@
-test 123
-
+An AI agent for a variation of the game “Pentago” which includes a combination of starting strategies, minimax search with evaluation function (heuristic) and move prediction by iterative deepening to achieve an instant win and avoid losing.
